@@ -1,0 +1,15 @@
+.container__card{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #1d5ba8;
+  margin-top: 30px;
+  width: 100%;
+  height: 400px;
+}
+
+.example-card{
+
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
